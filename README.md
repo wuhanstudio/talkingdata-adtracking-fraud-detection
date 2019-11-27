@@ -2,7 +2,7 @@
 
 [Kaggle Competition](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection)
 
-![logo](https://storage.googleapis.com/kaggle-competitions/kaggle/8540/logos/header.png)
+![logo](./header.png)
 
 
 
